@@ -49,7 +49,6 @@ const Students = () => {
         return animal
       }
     })
-    console.log("new array", updatedAccidents)
     setAnimals(updatedAccidents)
   }
 
